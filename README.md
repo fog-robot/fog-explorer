@@ -18,6 +18,6 @@ IoT (Internet of Things) node designed for fog computing. composed of an Arduino
 ## A Recommended Hardware Composition
 * Arduino UNO
 * WeMos D1
-* EasyShield with additional moving sensor
+* EasyShield with an additional moving sensor
 
-![Image text](/doc/pic/hardware/robot-explorer-v001.jpg)
+![After assembled](https://github.com/airforce011/fog-explorer/blob/master/doc/pic/hardware/fog-explorer-v001.jpg)
