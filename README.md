@@ -20,4 +20,4 @@ IoT (Internet of Things) node designed for fog computing. composed of an Arduino
 * WeMos D1
 * EasyShield with additional moving sensor
 
-![Image text](/doc/pic/hardware/robot-explorer-v01.jpg)
+![Image text](/doc/pic/hardware/robot-explorer-v001.jpg)
