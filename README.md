@@ -3,7 +3,7 @@ fog-explorer
 
 [![Build Status](https://github.com/airforce011/fog-explorer)]
 
-Nothing now, comming soon.
+comming soon.
 
 IoT (Internet of Things) node designed for fog computing. composed of an Arduino and an ESP8266.
 
